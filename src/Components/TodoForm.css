@@ -1,0 +1,56 @@
+.todo-div{
+    display: flex;
+    height: 300px;
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    justify-content: space-between;
+    padding: auto;
+    border: 1px solid black;
+}
+.todo-form{
+   align-items: center;
+   margin-left: 400px;
+   margin-right: 200px;
+   justify-content: center;
+   height: 50px;
+   width: 400px;
+}
+.todo-form input{
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+    font-weight: bold;
+    border-radius: 4px;
+    border: 1px solid tomato;
+    text-align: center;
+}
+.todo-form textarea{
+    
+    height: 50px;
+    width:100%;
+    font-weight: bold;
+    border-radius: 4px;
+    border: 1px solid tomato;
+    text-align: center;
+}
+.todo-form select{
+    height: 50px;
+    width:100%;
+    border-radius: 4px;
+    border: 1px solid tomato;
+    text-align: center;
+}
+.todo-form button{
+    border: 1px solid;
+    background-color: black;
+    border-radius: 4px;
+    color: white;
+    height:30px;
+    width: 200px;
+   
+    text-align: center;
+
+}
+    

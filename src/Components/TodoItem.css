@@ -1,0 +1,11 @@
+.todoitem-div{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+    padding: auto;
+    border: 1px solid black;
+}
+/* .todoitem-table tr th{
+    border: 1px solid black;
+} */
